@@ -1,4 +1,4 @@
-I went to the safari, and I saw:
+I went to the zoo, and I saw:
 
  - Lions
  - Elephants
@@ -14,3 +14,12 @@ I went to the safari, and I saw:
  - Crocodiles
  - Kudus
  - Warthhogs
+ - Cows
+ - Ducks
+ - Sheep
+ - Goats
+ - Chickens
+ - Pigs
+ - A Farmer
+ - Ostriches
+ - A Dinosaur
