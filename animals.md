@@ -1,12 +1,25 @@
-I went to the farm, and I saw:
+I went to the zoo, and I saw:
 
+ - Lions
+ - Elephants
+ - Leopards
+ - Rhinoceros
+ - Cape Buffalo
+ - Cheetahs
+ - Hyenas
+ - Giraffes
+ - Zebras
+ - Hippos
+ - African Wild Dogs
+ - Crocodiles
+ - Kudus
+ - Warthhogs
  - Cows
  - Ducks
  - Sheep
  - Goats
  - Chickens
  - Pigs
- - Cape Buffalo
  - A Farmer
  - Ostriches
  - A Dinosaur
